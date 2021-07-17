@@ -1,0 +1,18 @@
+/* cascading style sheet
+element selector
+id selector - #list
+class selector - .sampleclass
+universal selector - *
+*/
+
+body{
+background-color: yellowgreen;
+border: 2px solid black;
+text-align: center;
+}
+div{
+    background-color: coral;
+}
+span{
+    background-color: coral;
+}
